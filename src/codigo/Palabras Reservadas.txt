@@ -1,0 +1,18 @@
+Palabras Reservadas añadidas
+•	long 
+•	char 
+•	if 
+•	else 
+•	do 
+•	for 
+•	switch 
+•	case 
+•	class 
+•	public  
+•	private 
+•	break 
+•	default 
+•	void 
+•	byte 
+•	short 
+•	import 
